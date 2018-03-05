@@ -1,0 +1,6 @@
+c:\users\internet.labinf\documents\visual studio 2013\Projects\CAPrograma2\CAPrograma2\bin\Debug\CAPrograma2.exe.config
+c:\users\internet.labinf\documents\visual studio 2013\Projects\CAPrograma2\CAPrograma2\bin\Debug\CAPrograma2.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\CAPrograma2\CAPrograma2\bin\Debug\CAPrograma2.pdb
+c:\users\internet.labinf\documents\visual studio 2013\Projects\CAPrograma2\CAPrograma2\obj\Debug\CAPrograma2.csprojResolveAssemblyReference.cache
+c:\users\internet.labinf\documents\visual studio 2013\Projects\CAPrograma2\CAPrograma2\obj\Debug\CAPrograma2.exe
+c:\users\internet.labinf\documents\visual studio 2013\Projects\CAPrograma2\CAPrograma2\obj\Debug\CAPrograma2.pdb

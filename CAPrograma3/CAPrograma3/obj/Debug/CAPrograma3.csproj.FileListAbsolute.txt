@@ -1,0 +1,5 @@
+c:\users\internet.labinf\documents\visual studio 2013\Projects\CAPrograma3\CAPrograma3\bin\Debug\CAPrograma3.exe.config
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\CAPrograma3\CAPrograma3\bin\Debug\CAPrograma3.exe
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\CAPrograma3\CAPrograma3\bin\Debug\CAPrograma3.pdb
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\CAPrograma3\CAPrograma3\obj\Debug\CAPrograma3.exe
+C:\Users\internet.LABINF\Documents\Visual Studio 2013\Projects\CAPrograma3\CAPrograma3\obj\Debug\CAPrograma3.pdb
