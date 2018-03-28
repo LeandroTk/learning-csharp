@@ -1,0 +1,5 @@
+C:\Users\internet.LABINF\Desktop\CAPrograma5\CAPrograma5\bin\Debug\CAPrograma5.exe.config
+C:\Users\internet.LABINF\Desktop\CAPrograma5\CAPrograma5\bin\Debug\CAPrograma5.exe
+C:\Users\internet.LABINF\Desktop\CAPrograma5\CAPrograma5\bin\Debug\CAPrograma5.pdb
+C:\Users\internet.LABINF\Desktop\CAPrograma5\CAPrograma5\obj\Debug\CAPrograma5.exe
+C:\Users\internet.LABINF\Desktop\CAPrograma5\CAPrograma5\obj\Debug\CAPrograma5.pdb
