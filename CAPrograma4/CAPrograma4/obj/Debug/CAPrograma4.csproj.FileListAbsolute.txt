@@ -1,0 +1,6 @@
+C:\Users\internet.LABINF\Desktop\CAPrograma4\CAPrograma4\bin\Debug\CAPrograma4.exe.config
+C:\Users\internet.LABINF\Desktop\CAPrograma4\CAPrograma4\obj\Debug\CAPrograma4.csprojResolveAssemblyReference.cache
+C:\Users\internet.LABINF\Desktop\CAPrograma4\CAPrograma4\bin\Debug\CAPrograma4.exe
+C:\Users\internet.LABINF\Desktop\CAPrograma4\CAPrograma4\bin\Debug\CAPrograma4.pdb
+C:\Users\internet.LABINF\Desktop\CAPrograma4\CAPrograma4\obj\Debug\CAPrograma4.exe
+C:\Users\internet.LABINF\Desktop\CAPrograma4\CAPrograma4\obj\Debug\CAPrograma4.pdb
