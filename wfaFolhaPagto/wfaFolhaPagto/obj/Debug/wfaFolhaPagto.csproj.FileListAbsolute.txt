@@ -1,0 +1,9 @@
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe.config
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.exe
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\bin\Debug\wfaFolhaPagto.pdb
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csprojResolveAssemblyReference.cache
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Form1.resources
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.Properties.Resources.resources
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.csproj.GenerateResource.Cache
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.exe
+C:\Users\internet.LABINF\Documents\lp8\wfaFolhaPagto\wfaFolhaPagto\obj\Debug\wfaFolhaPagto.pdb
