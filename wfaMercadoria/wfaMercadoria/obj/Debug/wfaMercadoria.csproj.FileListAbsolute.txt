@@ -1,0 +1,9 @@
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\bin\Debug\wfaMercadoria.exe.config
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\bin\Debug\wfaMercadoria.exe
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\bin\Debug\wfaMercadoria.pdb
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\obj\Debug\wfaMercadoria.csprojResolveAssemblyReference.cache
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\obj\Debug\wfaMercadoria.Form1.resources
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\obj\Debug\wfaMercadoria.Properties.Resources.resources
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\obj\Debug\wfaMercadoria.csproj.GenerateResource.Cache
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\obj\Debug\wfaMercadoria.exe
+C:\Users\internet.LABINF\Desktop\wfaMercadoria\wfaMercadoria\obj\Debug\wfaMercadoria.pdb

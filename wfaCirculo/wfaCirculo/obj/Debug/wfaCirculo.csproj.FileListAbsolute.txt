@@ -1,0 +1,8 @@
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\bin\Debug\wfaCirculo.exe.config
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\bin\Debug\wfaCirculo.exe
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\bin\Debug\wfaCirculo.pdb
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.Form1.resources
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.Properties.Resources.resources
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.csproj.GenerateResource.Cache
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.exe
+C:\Users\internet.LABINF\Desktop\wfaCirculo\wfaCirculo\obj\Debug\wfaCirculo.pdb
